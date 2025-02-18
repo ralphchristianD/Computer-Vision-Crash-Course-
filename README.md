@@ -9,14 +9,14 @@
 
 <h2 align="left">About me</h2>
 
--  I’m currently learning **Python (OpenCV)**
-<p align="left">✨ Creating bugs since 2023<br>🌱 I'm currently learning about **OpenCV (Python)**<br>🎯 Goals: money, money, money<br>🎲 Fun fact: I don't like to eat watermelons</p>
-
-
+- ✨ Creating bugs since **2023**
+-  🌱I’m currently learning **Python (OpenCV)**
+-  🎯 Goals: **money, money, money**
+-  🎲Fun fact: **I don't like to eat watermelons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+  
 -  How to reach me **qrcddetchosa@tip.edu.ph**
 </p>
 
