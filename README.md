@@ -1,5 +1,8 @@
 # Computer-Vision-Crash-Course-
 
+![oooooooo-cat (1)](https://github.com/user-attachments/assets/325b02d0-77db-4aaa-aaf7-9c853f514cff)
+
+
 <h1 align="center">Hello 👋, I'm Ralph Christian</h1>
 <h3 align="center">A Computer Engineer Student</h3>
 
@@ -43,4 +46,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ralphchristiand&" alt="ralphchristiand" /></p>
 
-<div class="tenor-gif-embed" data-postid="25947790" data-share-method="host" data-aspect-ratio="0.83125" data-width="100%"><a href="https://tenor.com/view/oooooooo-cat-gif-25947790">Oooooooo Cat GIF</a>from <a href="https://tenor.com/search/oooooooo-gifs">Oooooooo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
