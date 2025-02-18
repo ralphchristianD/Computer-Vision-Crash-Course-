@@ -1,10 +1,9 @@
 # Computer-Vision-Crash-Course-
 
-![oooooooo-cat (1)](https://github.com/user-attachments/assets/325b02d0-77db-4aaa-aaf7-9c853f514cff)
-
-
 <h1 align="center">Hello 👋, I'm Ralph Christian</h1>
 <h3 align="center">A Computer Engineer Student</h3>
+
+![oooooooo-cat (1)](https://github.com/user-attachments/assets/325b02d0-77db-4aaa-aaf7-9c853f514cff)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralphchristiand&label=Profile%20views&color=0e75b6&style=flat" alt="ralphchristiand" /> </p>
 
