@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫 How to reach me **qrcddetchosa@tip.edu.ph**
+
+-  How to reach me **qrcddetchosa@tip.edu.ph**
 </p>
 
 <h2 align="left">I code with</h2>
