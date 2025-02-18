@@ -9,8 +9,8 @@
 
 <h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning **Python (OpenCV)**
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about OpenCV (Python)<br>🎯 Goals: money, money, money<br>🎲 Fun fact: I don't like to eat watermelons</p>
+-  I’m currently learning **Python (OpenCV)**
+<p align="left">✨ Creating bugs since 2023<br>🌱 I'm currently learning about **OpenCV (Python)**<br>🎯 Goals: money, money, money<br>🎲 Fun fact: I don't like to eat watermelons</p>
 
 
 
