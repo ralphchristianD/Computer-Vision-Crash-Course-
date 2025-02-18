@@ -11,10 +11,12 @@
 
 - 🌱 I’m currently learning **Python (OpenCV)**
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about OpenCV (Python)<br>🎯 Goals: money, money, money<br>🎲 Fun fact: I don't like to eat watermelons</p>
-- 📫 How to reach me **qrcddetchosa@tip.edu.ph**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 How to reach me **qrcddetchosa@tip.edu.ph**
 </p>
 
 <h2 align="left">I code with</h2>
